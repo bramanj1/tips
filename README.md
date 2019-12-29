@@ -1,4 +1,5 @@
 # Interesting links
+
 ## Angular
 https://blogs.technet.microsoft.com/canitpro/2014/03/10/step-by-step-enabling-hyper-v-for-use-on-windows-8-1/
 http://angular2-first-look.azurewebsites.net/
@@ -33,7 +34,6 @@ https://landscape.cncf.io/
 https://github.com/donnemartin/system-design-primer
 https://en.wikipedia.org/wiki/Enterprise_Architect_(software)
 
-# No SQL
 ## ElasticSearch
 https://www.elastic.co/guide/en/kibana/current/createvis.html
 https://www.elastic.co/guide/en/kibana/current/field-filter.html
