@@ -15,6 +15,26 @@ https://www.ng-book.com/2/
 https://www.code-sample.com/2017/04/angular-4-interview-questions-and.html
 https://toddmotto.com/angular/
 
+## Docker
+
+https://docs.docker.com/engine/docker-overview/
+https://developers.redhat.com/products/cdk/overview/
+https://linuxhint.com/install-minikube-ubuntu/
+https://github.com/wsargent/docker-cheat-sheet
+https://kubernetes.io/docs/home/
+https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/
+https://github.com/tfenster/dockeraccesshelper
+https://www.devopsschool.com/notes/kubernetes/2019/classroom-optum-may-2019.txt
+https://github.com/sbruggeman/aws-workshop-for-kubernetes/
+https://github.com/sbruggeman/aws-workshop-for-kubernetes/tree/master/01-path-basics/102-your-first-cluster
+https://github.com/sbruggeman/aws-workshop-for-kubernetes/tree/master/01-path-basics/101-start-here
+
+
+## AI
+https://www.coursera.org/learn/ai-for-everyone/home/week/1
+https://github.com/manee2k6/machine-learning-AI
+https://www.coursera.org/learn/ai-for-everyone/home/welcome
+
 ## Camel
 http://www.kai-waehner.de/blog/2011/06/02/when-to-use-apache-camel/
 https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85
