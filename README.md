@@ -14,6 +14,7 @@ https://angular-2-training-book.rangle.io/
 https://www.ng-book.com/2/
 https://www.code-sample.com/2017/04/angular-4-interview-questions-and.html
 https://toddmotto.com/angular/
+http://angular2-first-look.azurewebsites.net/
 
 ## Docker
 
@@ -53,6 +54,17 @@ https://www.terraform.io/docs/providers/azurerm/r/sql_database.html
 https://landscape.cncf.io/
 https://github.com/donnemartin/system-design-primer
 https://en.wikipedia.org/wiki/Enterprise_Architect_(software)
+https://www.ignite.spigit.com/Page/ActivityStream
+https://www.kaggle.com/competitions
+
+https://www.typescriptlang.org/docs/handbook/basic-types.html
+https://docs.spring.io/spring-security/site/docs/4.2.7.RELEASE/apidocs/org/springframework/security/web/authentication/www/BasicAuthenticationFilter.html
+https://code.visualstudio.com/docs?start=true
+http://www.fast.ai/
+https://www.guru99.com/selenium-tutorial.html
+https://medium.com/@swarnakishore/performing-multiple-http-requests-in-angular-4-5-with-forkjoin-74f3ac166d61
+http://webrd1268.uhc.com/master/calendar/readme
+https://joshbersin.com/2019/01/want-to-make-more-money-join-the-hybrid-jobs-revolution/
 
 ## ElasticSearch
 https://www.elastic.co/guide/en/kibana/current/createvis.html
