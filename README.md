@@ -17,7 +17,7 @@ https://toddmotto.com/angular/
 http://angular2-first-look.azurewebsites.net/
 
 ## Docker
-
+https://www.hashicorp.com/resources/hangout-terraform-azure-for-beginners
 https://docs.docker.com/engine/docker-overview/
 https://developers.redhat.com/products/cdk/overview/
 https://linuxhint.com/install-minikube-ubuntu/
