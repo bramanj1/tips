@@ -122,3 +122,14 @@ https://hackernoon.com/development-of-microservices-problems-and-solutions-b3ce8
 https://dzone.com/articles/challenges-in-implementing-microservices
 https://dzone.com/articles/10-challenges-of-microservices-and-solutions-tips
 
+#Security
+1. IT Security Guru
+2. Security Weekly Productions
+3. The Hacker News
+4. Infosec Magazine
+5. CSO Online
+6. The State of Security - Tripwire https://lnkd.in/eRfCec3d
+7. The Last Watchdog https://lnkd.in/eAKj8ntW
+8. Naked Security
+9. Graham Cluley
+10. Cyber Magazine
